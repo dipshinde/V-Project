@@ -1,0 +1,19 @@
+IMPORTANT: Add Your Photos Here
+================================
+
+To make this website truly personal:
+
+1. Add your photos to this folder (/assets/photos/)
+2. Name them: photo1.jpg, photo2.jpg, photo3.jpg, photo4.jpg
+3. Update the js/config.js file with the correct file paths
+
+For GIFs:
+1. Add GIF files to /assets/gifs/
+2. Name them: memory1.gif, memory2.gif
+3. Update the gallery section in js/config.js
+
+Recommended image sizes:
+- Photos: 1200x900px or similar (landscape/portrait)
+- GIFs: 480x480px or similar
+
+Make sure to use high-quality images for the best experience!
