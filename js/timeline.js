@@ -25,9 +25,11 @@ const Timeline = {
       entries.forEach(entry => {
         if (entry.isIntersecting) {
           const index = entry.target.dataset.index;
+          // CHANGED: 800ms delay between each timeline item (was 100ms)
+          // Makes it slow and smooth, giving time to read and absorb each moment
           setTimeout(() => {
             entry.target.classList.add('visible');
-          }, index * 100);
+          }, index * 800);
           observer.unobserve(entry.target);
         }
       });
