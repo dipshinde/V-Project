@@ -27,16 +27,16 @@ const CONFIG = {
 
   // Final choice section
   finalChoice: {
-    title: "Wait… one last thing 😏",
-    subtitle: "Sure you don't want to change your mind? 😈",
-    button: "Actually No 😈"
+    title: "one last thing 😏",
+    subtitle: "Sure you don't want to change your mind? 🤨",
+    button: "Actually No 😤"
   },
 
   // Too late popup
   tooLate: {
     title: "Too Late 💖",
     message: "Ab toh decision ho chuka hai",
-    subtext: "You're mine now 😊"
+    subtext: "You're already mine now 😊"
   },
 
   // Date generator section
@@ -130,11 +130,6 @@ const CONFIG = {
         date: "December 26, 2023",
         title: "First tea Together ☕",
         description: "When you took that last sip I knew something is going to happen in future"
-      },
-      {
-        date: "March 5, 2024",
-        title: "Our First Real Date 💕",
-        description: "Nervous tha bohot, but with you everything felt so natural"
       },
       {
         date: "January 15, 2024",
