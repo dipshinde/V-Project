@@ -36,7 +36,7 @@ All content is editable in **`js/config.js`**:
 
 ```javascript
 const CONFIG = {
-  herName: "Nandini",  // Change to her name
+  herName: "XYZ",  // Change to her name
   
   // Edit all text, dates, captions, and content here
   // No HTML/CSS knowledge required!
