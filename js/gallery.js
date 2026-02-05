@@ -27,9 +27,11 @@ const Gallery = {
       entries.forEach(entry => {
         if (entry.isIntersecting) {
           const index = entry.target.dataset.index;
+          // Changed: 500ms delay between each photo (was 100ms for every 3)
+          // This gives time to "sink in" each photo
           setTimeout(() => {
             entry.target.classList.add('visible');
-          }, (index % 3) * 100);
+          }, index * 500);
           observer.unobserve(entry.target);
         }
       });
