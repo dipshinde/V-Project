@@ -161,7 +161,7 @@ const CONFIG = {
       {
         type: "image",
         url: "assets/photos/photo2.jpg",
-        caption: "Us being us 💕"
+        caption: "Did  you remember this day 😙"
       },
       {
         type: "gif",
@@ -171,7 +171,7 @@ const CONFIG = {
       {
         type: "image",
         url: "assets/photos/photo3.jpg",
-        caption: "My favorite person 💖"
+        caption: "My Talented Chirkoot 💖"
       },
       {
         type: "gif",
