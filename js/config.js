@@ -207,6 +207,6 @@ This Valentine's Day, I just want to tell you - thank you. Thank you for being y
 
 Your Forever & Handsome Person 💕
 
-I love you more than Biryani. 😊`
+I love you always. ❤️😊`
   }
 };
