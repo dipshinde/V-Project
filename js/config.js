@@ -195,19 +195,18 @@ I don't even know where to start... there's so much I want to say.
 
 You just came and made my whole day lightup. The way you laugh, the way you get excited about little things, the way you make even ordinary moments feel special - I never knew someone could make me feel this way.
 
-Tumhare saath har din ek naya adventure hai. Whether we're doing something crazy or just sitting in comfortable silence, every moment with you feels right. 
+Every moment with you is just special all my worries all my tension just vanished looking at your cute smile. Whether we're doing something crazy or just sitting in comfortable silence, every moment with you feels right. 
 
 I love how you understand me without me having to explain. How you know when I need space and when I need a hug. How you make me want to be a better person, not by asking, but just by being you.
 
-Tumhari smile has the power to make my entire day better. Your laugh is my favorite sound. And your presence? That's my happy place.
+Your smile has the power to make my entire day better. Your laugh is my favorite sound. And your presence? That's my happy place.
 
-I know I'm not always good with words, but I want you to know - you mean everything to me. Tum mere liye sirf special nahi ho, tum meri priority ho, meri happiness ho.
+I know I'm not always good with words, but I want you to know - you mean everything to me. YOU COMPLETE ME...
 
 This Valentine's Day, I just want to tell you - thank you. Thank you for being you, for choosing me, for making life so beautiful.
 
-Hamesha tumhara,
-Your Forever Person 💕
+Your Forever & Handsome Person 💕
 
-P.S. - I love you more than chai. And that's saying something. 😊`
+I love you more than Biryani. 😊`
   }
 };
