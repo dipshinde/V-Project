@@ -14,7 +14,7 @@ const CONFIG = {
     gifUrl: "assets/gifs/cute.gif",  // Using your uploaded video (converted)
     // Alternative: use "assets/gifs/cute.gif" for the original cute GIF
     question: "Will you be my Valentine?",
-    subtitle: "Soch lo… carefully 😉",
+    subtitle: "Nit vichar kar... 😉",
     yesButton: "YES 💕",
     noButton: "Actually No 😤"
   },
@@ -29,7 +29,7 @@ const CONFIG = {
   finalChoice: {
     title: "one last thing 😏",
     subtitle: "Sure you don't want to change your mind? 🤨",
-    button: "Actually No 😤"
+    button: "Actually No ! 😤"
   },
 
   // Too late popup
@@ -144,7 +144,7 @@ const CONFIG = {
       {
         date: "Today & Forever 💖",
         title: "Every Day With You",
-        description: "Har din special hai when I'm with you"
+        description: "Each day is as beautiful as you"
       }
     ]
   },
